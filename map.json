@@ -320,7 +320,7 @@
     "md_id": ""
   },
   "714": {
-    "langs": ["cn", "hant", "id"],
+    "langs": ["cn", "en", "hant", "id"],
     "md_id": ""
   },
   "715": {
@@ -452,7 +452,7 @@
     "md_id": ""
   },
   "798": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "799": {
@@ -476,7 +476,7 @@
     "md_id": ""
   },
   "804": {
-    "langs": ["ar", "cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["ar", "cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "806": {
@@ -656,7 +656,7 @@
     "md_id": ""
   },
   "1676": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "vi"],
+    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "1677": {
@@ -1056,7 +1056,7 @@
     "md_id": ""
   },
   "1814": {
-    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
+    "langs": ["ar", "cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "1815": {
@@ -1472,7 +1472,7 @@
     "md_id": ""
   },
   "1932": {
-    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
+    "langs": ["ar", "cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "1933": {
@@ -1976,7 +1976,7 @@
     "md_id": ""
   },
   "2061": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "2062": {
@@ -2624,11 +2624,11 @@
     "md_id": "8a2b323b-acb2-4304-88ff-6dd8b3b1a680"
   },
   "2477": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": "8428dda0-55cd-4d0e-81aa-8ef1183dc714"
   },
   "2478": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": "25e687ba-0efa-4892-9ee6-02676317ef18"
   },
   "2479": {
@@ -2640,11 +2640,11 @@
     "md_id": "530037dc-f404-46ec-a58c-e30760652896"
   },
   "2884": {
-    "langs": ["cn", "en", "hant", "id", "pt"],
+    "langs": ["cn", "en", "hant", "id", "pt", "vi"],
     "md_id": ""
   },
   "2891": {
-    "langs": ["cn", "en", "es", "hant", "id", "vi"],
+    "langs": ["ar", "cn", "en", "es", "hant", "id", "vi"],
     "md_id": ""
   },
   "2912": {
@@ -2772,7 +2772,7 @@
     "md_id": "8aef6685-ba56-46e8-a9aa-8ff500e3d0e3"
   },
   "4691": {
-    "langs": ["cn", "en", "hant", "id"],
+    "langs": ["ar", "cn", "en", "hant", "id"],
     "md_id": ""
   },
   "4807": {
@@ -2936,7 +2936,7 @@
     "md_id": ""
   },
   "10611": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "10612": {
@@ -2952,7 +2952,7 @@
     "md_id": ""
   },
   "10615": {
-    "langs": ["cn", "en", "hant", "id", "th", "vi"],
+    "langs": ["cn", "en", "fr", "hant", "id", "th", "vi"],
     "md_id": ""
   },
   "10616": {
@@ -3632,7 +3632,7 @@
     "md_id": ""
   },
   "38428": {
-    "langs": ["cn", "en", "fr", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "38429": {
@@ -3644,7 +3644,7 @@
     "md_id": ""
   },
   "38471": {
-    "langs": ["cn", "en", "hant", "id", "vi"],
+    "langs": ["cn", "en", "hant", "id", "th", "vi"],
     "md_id": ""
   },
   "40407": {
@@ -3844,7 +3844,7 @@
     "md_id": ""
   },
   "186286": {
-    "langs": ["cn", "hant", "id", "th", "vi"],
+    "langs": ["cn", "en", "hant", "id", "th", "vi"],
     "md_id": ""
   },
   "201820": {
@@ -3920,11 +3920,11 @@
     "md_id": ""
   },
   "318419": {
-    "langs": ["cn", "en", "hant", "id", "vi"],
+    "langs": ["cn", "en", "es", "hant", "id", "vi"],
     "md_id": ""
   },
   "318747": {
-    "langs": ["cn", "en", "hant", "id", "th", "vi"],
+    "langs": ["cn", "en", "es", "hant", "id", "th", "vi"],
     "md_id": ""
   },
   "324350": {
@@ -3960,7 +3960,7 @@
     "md_id": ""
   },
   "349027": {
-    "langs": ["cn", "en", "hant", "id", "th", "vi"],
+    "langs": ["cn", "en", "es", "hant", "id", "th", "vi"],
     "md_id": ""
   },
   "349041": {
@@ -3996,11 +3996,11 @@
     "md_id": ""
   },
   "363449": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "363451": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "363452": {
@@ -4012,7 +4012,7 @@
     "md_id": ""
   },
   "363455": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "vi"],
     "md_id": ""
   },
   "363456": {
@@ -4056,7 +4056,7 @@
     "md_id": ""
   },
   "376816": {
-    "langs": ["cn", "en", "hant", "id"],
+    "langs": ["cn", "en", "hant", "id", "th"],
     "md_id": ""
   },
   "376826": {
@@ -4180,7 +4180,7 @@
     "md_id": ""
   },
   "497459": {
-    "langs": ["cn", "en", "hant", "id", "vi"],
+    "langs": ["cn", "en", "fr", "hant", "id", "vi"],
     "md_id": ""
   },
   "497460": {
@@ -4384,7 +4384,7 @@
     "md_id": ""
   },
   "583195": {
-    "langs": ["cn", "en", "hant", "id", "vi"],
+    "langs": ["cn", "en", "es", "hant", "id", "vi"],
     "md_id": ""
   },
   "590961": {
@@ -4412,7 +4412,7 @@
     "md_id": ""
   },
   "605395": {
-    "langs": ["cn", "en", "hant", "vi"],
+    "langs": ["cn", "en", "hant", "th", "vi"],
     "md_id": ""
   },
   "605862": {
@@ -4440,15 +4440,15 @@
     "md_id": ""
   },
   "664939": {
-    "langs": ["cn", "hant", "id", "vi"],
+    "langs": ["cn", "en", "hant", "id", "vi"],
     "md_id": ""
   },
   "664940": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "664942": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "664943": {
@@ -4460,7 +4460,7 @@
     "md_id": ""
   },
   "664945": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "664956": {
@@ -4528,7 +4528,7 @@
     "md_id": ""
   },
   "676963": {
-    "langs": ["cn", "hant", "vi"],
+    "langs": ["cn", "en", "hant", "vi"],
     "md_id": ""
   },
   "678885": {
@@ -4604,7 +4604,7 @@
     "md_id": ""
   },
   "712618": {
-    "langs": ["cn", "en", "es", "hant", "id", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "vi"],
     "md_id": ""
   },
   "714151": {
@@ -4700,7 +4700,7 @@
     "md_id": ""
   },
   "757982": {
-    "langs": ["cn", "hant", "id", "th", "vi"],
+    "langs": ["cn", "en", "hant", "id", "th", "vi"],
     "md_id": ""
   },
   "758024": {
@@ -4728,7 +4728,7 @@
     "md_id": ""
   },
   "775372": {
-    "langs": ["cn", "en", "es", "hant", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "pt", "th", "vi"],
     "md_id": ""
   },
   "775401": {
@@ -4736,7 +4736,7 @@
     "md_id": ""
   },
   "775402": {
-    "langs": ["cn", "en", "es", "hant", "id", "pt", "th", "vi"],
+    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "784650": {
@@ -4744,7 +4744,7 @@
     "md_id": ""
   },
   "794541": {
-    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
+    "langs": ["ar", "cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "829323": {
@@ -4892,7 +4892,7 @@
     "md_id": ""
   },
   "871338": {
-    "langs": ["cn", "hant", "id", "th", "vi"],
+    "langs": ["cn", "es", "hant", "id", "pt", "th", "vi"],
     "md_id": ""
   },
   "883117": {
@@ -4964,7 +4964,7 @@
     "md_id": ""
   },
   "898771": {
-    "langs": ["cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
+    "langs": ["ar", "cn", "en", "es", "fr", "hant", "id", "pt", "th", "vi"],
     "md_id": "9c27cee1-68cf-4cb6-902f-de969871ebad"
   },
   "898772": {
@@ -7264,7 +7264,7 @@
     "md_id": ""
   },
   "2858198": {
-    "langs": ["cn", "hant"],
+    "langs": ["cn", "en", "hant"],
     "md_id": ""
   },
   "2858199": {
